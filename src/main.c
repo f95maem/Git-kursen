@@ -1,4 +1,4 @@
 main () {
 //Returning...
-	return 1;
+	return 100;
 }
