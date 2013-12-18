@@ -5,3 +5,7 @@
 // Blixtrande snabbt, må jag säga.
 //Nja...
 //Vem hinner först?
+
+void main (){
+	return 0;
+}
