@@ -8,3 +8,5 @@ Vad faen är en "Strethc"?
 
 Vem hinner först?
 Vad har Hasse gjort?
+
+Kommentar gjord i branch ssc
